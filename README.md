@@ -6,8 +6,6 @@ Volám sa Tomáš a som digitálny marketér s dušou redaktora 😉 Od SEO po c
 
 SEO – pokročilý
 
-Analýza kľúčových slov (Collabim, Marketing Miner) – pokročilý
-
 Google Search Console – pokročilý
 
 Rank Math / Yoast SEO – pokročilý
