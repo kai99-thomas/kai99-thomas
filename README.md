@@ -16,9 +16,7 @@ Technické SEO audity – pokročilý
 
 Webový a blogový obsah – pokročilý
 
-Redakčné písanie – základy
-
-Tvorba náučného a informačného obsahu – pokročilý
+Tvorba obsahu – pokročilý
 
 Copywriting - pokročilý
 
