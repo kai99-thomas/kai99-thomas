@@ -4,7 +4,7 @@ Volám sa Tomáš a som digitálny marketér s dušou redaktora 😉 Od SEO po c
 
 ## 🔍 SEO (Optimalizácia pre vyhľadávače)
 
-SEO stratégia – pokročilý
+SEO – pokročilý
 
 Analýza kľúčových slov (Collabim, Marketing Miner) – pokročilý
 
