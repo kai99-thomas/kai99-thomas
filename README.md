@@ -3,7 +3,7 @@ Volám sa Tomáš a som digitálny marketér s dušou redaktora 😉 Od SEO po c
 
 ---
 
-## 🧠 Zručnosti  
+## Zručnosti  
 
 ### 🔍 SEO (Optimalizácia pre vyhľadávače)
 - SEO – **pokročilý**  
