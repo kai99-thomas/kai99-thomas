@@ -1,5 +1,5 @@
 # 👋 O mne  
-Volám sa Tomáš a som digitálny marketér s dušou redaktora 😉 Od SEO po copywriting – rád sa hrabem v dátach aj v slovách.  Verím, že každý web má svoj potenciál, len ho treba ukázať svetu.
+Volám sa Tomáš a som digitálny marketér s dušou redaktora 😉 Od SEO po copywriting – rád sa hrabem v dátach aj v slovách.  Verím, že každý web má svoj potenciál, len ho treba ukázať svetu. Momentálne pracujem pre organizáciu [aptet.sk](https://www.aptet.sk/)
 
 ## Zručnosti
 
@@ -8,6 +8,7 @@ Volám sa Tomáš a som digitálny marketér s dušou redaktora 😉 Od SEO po c
 - Google Search Console – **pokročilý**  
 - Rank Math / Yoast SEO – **pokročilý**  
 - Technické SEO audity – **pokročilý**
+- Linkbuilding - **pokročilý**
 
 ### ✍️ Copywriting a obsahový marketing
 - Webový a blogový obsah – **pokročilý**  
