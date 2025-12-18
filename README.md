@@ -12,7 +12,6 @@ Volám sa Tomáš Karľa a som digitálny marketér s dušou redaktora 😉 Od S
 
 ### ✍️ Copywriting a obsahový marketing
 - Webový a blogový obsah – **pokročilý**  
-- Tvorba obsahu – **pokročilý**  
 - Copywriting – **pokročilý**
 
 ### 📊 Google Ads a analytika
