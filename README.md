@@ -1,6 +1,7 @@
 # 👋 O mne  
 Volám sa Tomáš Karľa a som digitálny marketér s dušou redaktora 😉 Od SEO po copywriting – rád sa hrabem v dátach aj v slovách.  Verím, že každý web má svoj potenciál, len ho treba ukázať svetu. Momentálne pracujem pre organizáciu [aptet.sk](https://www.aptet.sk/) a taktiež prevádzkujem vlastný WordPress metalový magazín [Metalmania-Magazín](https://www.metalmania-magazin.eu/)
 
+
 ## Zručnosti
 
 ### 🔍 SEO (Optimalizácia pre vyhľadávače)
@@ -25,3 +26,6 @@ Volám sa Tomáš Karľa a som digitálny marketér s dušou redaktora 😉 Od S
 - Microsoft Word – **pokročilý**  
 - Microsoft Excel – **pokročilý**
 
+### 📝 Moje články
+
+📌 [Linktree] (https://linktr.ee/Thomas_Kai99))
