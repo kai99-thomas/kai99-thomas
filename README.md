@@ -28,4 +28,4 @@ Volám sa Tomáš Karľa a som digitálny marketér s dušou redaktora 😉 Od S
 
 ### 📝 Moje články
 
-📌 [Linktree] (https://linktr.ee/Thomas_Kai99))
+📌 (https://linktr.ee/Thomas_Kai99)
