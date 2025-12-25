@@ -33,7 +33,7 @@ Volám sa Tomáš Karľa a som digitálny marketér s dušou redaktora 😉 Od S
 ## 📊 Vybrané projekty a prípadové štúdie
 
 ### 🔥 SEO prípadová štúdia: Metalmania-Magazín
-Dlhodobý rast návštevnosti obsahového webu bez platených kampaní.
+
 
 **Východiskový stav:**
 - ~2 000 používateľov mesačne
