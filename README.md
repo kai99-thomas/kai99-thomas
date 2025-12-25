@@ -29,3 +29,22 @@ Volám sa Tomáš Karľa a som digitálny marketér s dušou redaktora 😉 Od S
 ### 📝 Moje články
 
 📌 https://linktr.ee/Thomas_Kai99
+
+## 📊 Vybrané projekty a prípadové štúdie
+
+### 🔥 SEO prípadová štúdia: Metalmania-Magazín
+Dlhodobý rast návštevnosti obsahového webu bez platených kampaní.
+
+**Východiskový stav:**
+- ~2 000 používateľov mesačne
+- vysoký bounce rate
+- archívna štruktúra webu
+
+**Výsledky:**
+- +152 % organický rast
+- stabilne 3 000 – 3 600 používateľov mesačne
+- 3× vyšší engagement
+
+👉 **Detailná prípadová štúdia:**  
+https://github.com/kai99-thomas/metalmania-magazin-seo-case-study
+
