@@ -48,7 +48,7 @@ Volám sa Tomáš Karľa a som digitálny marketér s dušou redaktora 😉 Od S
 👉 **Detailná prípadová štúdia:**  
 https://github.com/kai99-thomas/metalmania-magazin-seo-case-study
 
-🔥 **Google Ads prípadová štúdia: Metalmania-Magazín**
+### 🔥 Google Ads prípadová štúdia: Metalmania-Magazín**
 
 Projekt: metalmania-magazin.eu
 Obdobie kampane: 10. 1. 2026 – 12. 2. 2026
