@@ -56,12 +56,12 @@ Typ kampane: Search
 Geografické cielenie: Česká republika
 Rozpočet: 30 €
 
-🎯 Cieľ kampane
+🎯 **Cieľ kampane** 
 - zvýšenie CTR
 - akvizícia relevantnej návštevnosti
 - presmerovanie na špecifické tag pages (metalové/rockové koncerty)
 
-📊 Výsledky
+📊 **Výsledky**
 - Impressions: 19 638
 - Clicks: 461
 - CTR: 2,35 %
@@ -70,7 +70,7 @@ Rozpočet: 30 €
 - Konverzný pomer: 47,94 %
 - Celkové náklady: 30,05 €
 
-🔎 Kľúčové insighty
+🔎 **Kľúčové insighty**
 - Prechod z Broad match na Phrase match výrazne zvýšil relevanciu trafficu
 - Aktívne využívanie negative keywords minimalizovalo nerelevantné kliknutia
 - Vysoká relevancia = extrémne nízka CPC (0,07 €)
