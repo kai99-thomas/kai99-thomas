@@ -48,10 +48,10 @@ Volám sa Tomáš Karľa a som digitálny marketér s dušou redaktora 😉 Od S
 👉 **Detailná prípadová štúdia:**  
 https://github.com/kai99-thomas/metalmania-magazin-seo-case-study
 
-🎯 Google Ads Case Study: Akvizícia cieleného publika (Metalmania-Magazín)
+🎯 Google Ads prípadová štúdia: Metalmania-Magazín
 
 Projekt: metalmania-magazin.eu
-Obdobie: 10. 1. 2026 – 12. 2. 2026
+Obdobie kampane: 10. 1. 2026 – 12. 2. 2026
 Typ kampane: Search
 Geografické cielenie: Česká republika
 Rozpočet: 30 €
@@ -91,4 +91,3 @@ Vysoká relevancia = extrémne nízka CPC (0,07 €)
 Potenciál škálovania pri zachovaní presnej/frázovej zhody
 
 Možnosť expanzie do ďalších miest (Brno, Ostrava, Plzeň) a sezónnych eventov
-
